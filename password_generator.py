@@ -1,4 +1,3 @@
-#Made by: Breezy
 import random
 import string
 
